@@ -1,0 +1,102 @@
+{
+  "books": [
+    {
+      "id": 101,
+      "title": "ratione autem beatae",
+      "author": "Gay Klocko",
+      "rating": 4.7,
+      "year_published": 1835
+    },
+    {
+      "id": 102,
+      "title": "autem harum consequuntur eum",
+      "author": "Walter Bailey",
+      "rating": 4.35,
+      "year_published": 1754
+    },
+    {
+      "id": 103,
+      "title": "sint beatae quo tempore aut",
+      "author": "Haylie Carroll",
+      "rating": 4.6,
+      "year_published": 1915
+    },
+    {
+      "id": 104,
+      "title": "et ratione impedit ut",
+      "author": "Amely Glover",
+      "rating": 2.4,
+      "year_published": 1843
+    },
+    {
+      "id": 105,
+      "title": "aut maiores",
+      "author": "Colby Murazik",
+      "rating": 2.5,
+      "year_published": 1959
+    },
+    {
+      "id": 106,
+      "title": "porro quo at est",
+      "author": "Michael Watsica",
+      "rating": 2.4,
+      "year_published": 1791
+    },
+    {
+      "id": 107,
+      "title": "odit dolores quia voluptatem et sed",
+      "author": "Charlene Schowalter",
+      "rating": 4.75,
+      "year_published": 1813
+    },
+    {
+      "id": 108,
+      "title": "praesentium",
+      "author": "Keshaun Little",
+      "rating": 3.55,
+      "year_published": 1855
+    },
+    {
+      "id": 109,
+      "title": "et qui",
+      "author": "Blake Schmeler",
+      "rating": 0.55,
+      "year_published": 1836
+    },
+    {
+      "id": 110,
+      "title": "sed autem",
+      "author": "Hortense Bauch",
+      "rating": 1.3,
+      "year_published": 1905
+    },
+    {
+      "id": 111,
+      "title": "ea delectus neque accusantium",
+      "author": "Allison Tremblay",
+      "rating": 3.65,
+      "year_published": 1702
+    },
+    {
+      "id": 112,
+      "title": "ut",
+      "author": "Dovie Barrows",
+      "rating": 4.2,
+      "year_published": 1706
+    },
+    {
+      "id": 113,
+      "title": "eligendi",
+      "author": "Jett Wiza",
+      "rating": 1.95,
+      "year_published": 1831
+    },
+    {
+      "id": 114,
+      "title": "est similique",
+      "author": "Lily Moen",
+      "rating": 2.9,
+      "year_published": 1933
+    }
+  ]
+}
